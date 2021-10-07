@@ -62,9 +62,10 @@ Run in separate terminal:
 
 ## Contributions
 
+- [Zoe](https://github.com/ahtihska)
 - [Sash](https://github.com/sash2501)
 - [Pavan](https://github.com/pavanbsp)
-- [Anirudh](https://github.com/chamala-anirudh)
+
 
 ## License
 
